@@ -3,7 +3,7 @@ Topic: App::jt
 Author: Yanick Champoux <yanick@cpan.org>
 
 Santa Claus's workshops, like any other organization working under lot of
-pressure and chronically undermanned (in this case, quite litterally,
+pressure and chronically undermanned (in this case, quite literally,
 as no elf stands taller than four feet), are
 a little bit of a hot, cocoa-scented mess. The 
 workshops's many systems could
